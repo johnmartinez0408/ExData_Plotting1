@@ -1,3 +1,6 @@
+##NOTE
+Before running the scripts, you must copy the data file (and unzip it if zipped) to the same folder as the scripts.
+
 ## Introduction
 
 This assignment uses data from
